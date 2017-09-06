@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<application xmlns="http://ns.adobe.com/air/application/20.0">
+<application xmlns="http://ns.adobe.com/air/application/26.0">
   <id>setzer.sudoku</id>
   <filename>Sudoku</filename>
   <name>Sudoku</name>
@@ -43,4 +42,3 @@
     <requestedDisplayResolution>high</requestedDisplayResolution>
   </iPhone>
 </application>
-
